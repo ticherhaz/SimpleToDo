@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Ticherhaz/Challenger/AndroidStudio/SimpleToDo/app/src/main/res/drawable-v24/button_bg.xml" value="0.3828125" />
+        <entry key="..\:/Ticherhaz/Challenger/AndroidStudio/SimpleToDo/app/src/main/res/drawable-v24/button_bg_blue.xml" value="0.27291666666666664" />
+        <entry key="..\:/Ticherhaz/Challenger/AndroidStudio/SimpleToDo/app/src/main/res/drawable-v24/button_bg_red.xml" value="0.3828125" />
+        <entry key="..\:/Ticherhaz/Challenger/AndroidStudio/SimpleToDo/app/src/main/res/drawable-v24/dialog_simple_round.xml" value="0.3828125" />
+        <entry key="..\:/Ticherhaz/Challenger/AndroidStudio/SimpleToDo/app/src/main/res/drawable/button_bg.xml" value="0.3828125" />
+        <entry key="..\:/Ticherhaz/Challenger/AndroidStudio/SimpleToDo/app/src/main/res/drawable/button_bg_blue.xml" value="0.27291666666666664" />
+        <entry key="..\:/Ticherhaz/Challenger/AndroidStudio/SimpleToDo/app/src/main/res/drawable/button_bg_red.xml" value="0.3828125" />
+        <entry key="..\:/Ticherhaz/Challenger/AndroidStudio/SimpleToDo/app/src/main/res/drawable/dialog_simple_round.xml" value="0.27291666666666664" />
+        <entry key="..\:/Ticherhaz/Challenger/AndroidStudio/SimpleToDo/app/src/main/res/layout/activity_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Ticherhaz/Challenger/AndroidStudio/SimpleToDo/app/src/main/res/layout/dialog_create_todo.xml" value="0.36666666666666664" />
+        <entry key="..\:/Ticherhaz/Challenger/AndroidStudio/SimpleToDo/app/src/main/res/layout/dialog_edit_todo.xml" value="0.36666666666666664" />
+        <entry key="..\:/Ticherhaz/Challenger/AndroidStudio/SimpleToDo/app/src/main/res/layout/dialog_filter.xml" value="0.25677083333333334" />
+        <entry key="..\:/Ticherhaz/Challenger/AndroidStudio/SimpleToDo/app/src/main/res/layout/item_progress.xml" value="0.36666666666666664" />
+        <entry key="..\:/Ticherhaz/Challenger/AndroidStudio/SimpleToDo/app/src/main/res/layout/item_todo.xml" value="0.36666666666666664" />
+        <entry key="..\:/Ticherhaz/Challenger/AndroidStudio/SimpleToDo/app/src/main/res/menu/menu_search.xml" value="0.20520833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
